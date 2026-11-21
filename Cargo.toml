@@ -1,0 +1,11 @@
+[package]
+name = "horizon-mod-inventory-sorter"
+version = "1.0.0"
+edition = "2024"
+license = "MIT"
+publish = false
+
+[lib]
+path = "mixins/inventory_sorter/runtime.rs"
+
+[dependencies]
