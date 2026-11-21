@@ -1,0 +1,13 @@
+id = "inventory_sorter"
+name = "Inventory Sorter"
+version = "1.0.0"
+description = "Merges partial stacks and sorts inventory and containers (R), and quick-stacks matching items into an open container (G)."
+authors = ["NEZER4K"]
+license = "MIT"
+api = "0.2"
+capabilities = ["registries"]
+
+[native]
+game = "26.3"
+horizon = "ba6344a59cb9e755b730dcf02285fc0d33b97d3c"
+mixins = "3f99a5c60dfa311cc365524c44ae2fd799bfa1de"
